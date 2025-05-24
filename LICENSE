@@ -1,0 +1,13 @@
+Custom MIT-like License (PR-Only Version)
+
+Copyright (c) 2025 Daniel Rosemann
+
+Permission is hereby granted, free of charge, to any person submitting a pull request (PR) to this repository, to include this software in the PR only for the purpose of contributing to the repository (the “Project”), subject to the following conditions:
+
+The software may not be used, copied, modified, merged, published, distributed, sublicensed, or sold except as part of a PR submitted to the Project.
+
+Inclusion of the software in the Project via PR does not grant any rights to use the software independently of the Project.
+
+The above rights are granted only for the purposes of contributing to the Project, and do not extend to any other usage scenarios.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE OUTSIDE OF THE PROJECT.
